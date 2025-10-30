@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Getting Started with HTML.md",
+                "file": "Chapters/1. Getting Started with HTML.md",
                 "mode": "source",
                 "source": false
               },
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Getting Started with HTML.md",
+                "file": "Chapters/1. Getting Started with HTML.md",
                 "mode": "source",
                 "source": false
               },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Getting Started with HTML.md",
+                "file": "Chapters/1. Getting Started with HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Getting Started with HTML.md",
+                "file": "Chapters/1. Getting Started with HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Getting Started with HTML.md",
+                "file": "Chapters/1. Getting Started with HTML.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,10 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "953052a2fe67bd54",
+  "active": "4079b6461acc6738",
   "lastOpenFiles": [
     "Welcome.md",
-    "1. Getting Started with HTML.md",
+    "Chapters/1. Getting Started with HTML.md",
     "Chapters"
   ]
 }
