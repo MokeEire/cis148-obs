@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/3. Designing a Page Layout.md",
+                "file": "Chapters/5. Designing for the Mobile Web.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Designing a Page Layout"
+              "title": "5. Designing for the Mobile Web"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "953052a2fe67bd54",
   "lastOpenFiles": [
-    "Chapters/2. Getting Started with CSS.md",
     "Chapters/3. Designing a Page Layout.md",
+    "Chapters/5. Designing for the Mobile Web.md",
+    "Chapters/2. Getting Started with CSS.md",
     "Chapters/1. Getting Started with HTML.md",
     "Welcome.md",
     "Chapters"
